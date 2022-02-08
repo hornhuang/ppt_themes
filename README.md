@@ -5,7 +5,7 @@
 
 # 目录
 - 工作晋升、答辩等使用
-[]()
+[](https://github.com/hornhuang/ppt_themes/blob/main/res/images/%E5%B7%A5%E4%BD%9C%E6%99%8B%E5%8D%87.png)
 
 # MIT License
 
